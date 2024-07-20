@@ -1,0 +1,7 @@
+C:\Users\sanskruti.itkar\source\repos\EnumPOC\bin\Debug\EnumPOC.exe.config
+C:\Users\sanskruti.itkar\source\repos\EnumPOC\bin\Debug\EnumPOC.exe
+C:\Users\sanskruti.itkar\source\repos\EnumPOC\bin\Debug\EnumPOC.pdb
+C:\Users\sanskruti.itkar\source\repos\EnumPOC\obj\Debug\EnumPOC.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\EnumPOC\obj\Debug\EnumPOC.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\EnumPOC\obj\Debug\EnumPOC.exe
+C:\Users\sanskruti.itkar\source\repos\EnumPOC\obj\Debug\EnumPOC.pdb
